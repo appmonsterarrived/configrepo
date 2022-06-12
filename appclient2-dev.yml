@@ -1,3 +1,2 @@
-spring:
-  profiles:
-    active: dev
+welcome:
+  greeting: Hello world from app client 1 dev updated version 2
