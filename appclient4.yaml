@@ -1,6 +1,3 @@
 
-spring:
-  datasource:
-    url: jdbc:postgres://localhost:5432/anchor
-    username: POSGRESS
-    password: {cipher}c137435879ea567fdfd27d231b26837ffdf546fe7ce057bed1d3819afb4b5a35
+server:
+  port: 8089
